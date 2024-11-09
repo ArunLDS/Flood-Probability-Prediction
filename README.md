@@ -1,7 +1,7 @@
 # Flood Probability Prediction (Regression Model)
 
 ## Overview
-The goal of this project is to build a machine learning model that can predict the probability of flood occurrence. Several models were trained for this task, and the final predictions were made using the `Stacking method`. This notebook was also used in a Kaggle competition.   
+The goal of this project is to build a machine learning model that can predict the probability of flood occurrence. Several models were trained for this task, and the final predictions were made using the `Blending method` to further imrove the accuracy. This notebook was also used in a Kaggle competition.   
 [View this notebook in kaggle](https://www.kaggle.com/code/arunl15/ensemble-model-xgb-lgbm-cbr-xgbrf-ridge)
 
 ## Dataset Info
